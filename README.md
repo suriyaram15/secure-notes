@@ -1,6 +1,6 @@
 # Secure Notes Manager 🔒
 
-![App Screenshot](https://raw.githubusercontent.com/suriyaram15/secure-notes/main/public/screenshot3.png)  
+![App Screenshot](https://github.com/suriyaram15/secure-notes/blob/main/public/Screenshot1.png) 
 ![App Screenshot](https://raw.githubusercontent.com/suriyaram15/secure-notes/main/public/screenshot1.png)  
 ![App Screenshot](https://raw.githubusercontent.com/suriyaram15/secure-notes/main/public/screenshot2.png)  
 
