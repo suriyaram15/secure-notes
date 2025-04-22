@@ -105,11 +105,6 @@ Pull requests welcome! Please:
 1. Fork the repository  
 2. Create your feature branch  
 3. Submit a PR with detailed explanation  
-
-## License 📜
-
-MIT License - see [LICENSE.md](LICENSE.md) for details
-
 ---
 
 **Warning**: This is a client-side only application. For production use, consider adding server-side validation and backup mechanisms.
