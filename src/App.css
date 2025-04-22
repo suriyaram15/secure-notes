@@ -1,0 +1,116 @@
+/* Add these new styles */
+.app-container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.search-container {
+  display: flex;
+  gap: 10px;
+  margin-bottom: 20px;
+}
+
+.notes-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  gap: 20px;
+}
+
+.note-card {
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  padding: 15px;
+  background: white;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.note-header {
+  margin-bottom: 10px;
+}
+
+.category {
+  display: inline-block;
+  padding: 2px 8px;
+  border-radius: 4px;
+  font-size: 0.8rem;
+  margin-bottom: 5px;
+}
+
+.category.personal {
+  background: #ffe0e0;
+  color: #c00;
+}
+
+.category.work {
+  background: #e0f0ff;
+  color: #06c;
+}
+
+.category.ideas {
+  background: #f0ffe0;
+  color: #090;
+}
+
+.note-actions {
+  display: flex;
+  gap: 10px;
+  margin-top: 15px;
+}
+
+.delete-btn {
+  background: #ff4444;
+}
+
+.delete-btn:hover {
+  background: #cc000c;
+}
+.note-card {
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  padding: 15px;
+  background: white;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.note-header {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+}
+
+.note-content {
+  flex-grow: 1;
+  color: #555;
+}
+
+.note-footer {
+  font-size: 0.8rem;
+  color: #888;
+}
+
+.note-actions {
+  display: flex;
+  gap: 10px;
+  margin-top: 10px;
+}
+
+.search-container {
+  display: flex;
+  gap: 10px;
+  margin-bottom: 20px;
+}
+
+.search-container input {
+  flex-grow: 1;
+  padding: 8px;
+}
+
+.notes-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  gap: 20px;
+}
