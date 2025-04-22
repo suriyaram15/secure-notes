@@ -1,6 +1,3 @@
-Here's a comprehensive `README.md` for your Secure Notes Manager project:
-
-```markdown
 # Secure Notes Manager 🔒
 
 ![App Screenshot](/screenshot3.png) 
