@@ -1,8 +1,8 @@
 # Secure Notes Manager 🔒
 
-![App Screenshot](https://raw.githubusercontent.com/suriyaram15/secure-notes/main/screenshot3.png)  
-![App Screenshot](https://raw.githubusercontent.com/suriyaram15/secure-notes/main/screenshot1.png)  
-![App Screenshot](https://raw.githubusercontent.com/suriyaram15/secure-notes/main/screenshot2.png)  
+![App Screenshot](https://raw.githubusercontent.com/suriyaram15/secure-notes/main/public/screenshot3.png)  
+![App Screenshot](https://raw.githubusercontent.com/suriyaram15/secure-notes/main/public/screenshot1.png)  
+![App Screenshot](https://raw.githubusercontent.com/suriyaram15/secure-notes/main/public/screenshot2.png)  
 
 A secure, encrypted note-taking web application that protects your sensitive notes with AES-256 encryption. Your data remains encrypted until you enter your master password.
 
